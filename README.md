@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando Back End 
+- 🌱 Estudando Front End 
 
 <div align="center">
   <a href="https://github.com/gutofar1as">
