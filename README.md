@@ -1,13 +1,13 @@
-### <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> YOOO GUSTAVOO</h1>
+### <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Oiii eu sou o Wesley Ramos</h1>
 
 
 
-- 🌱 Estudando Back End
+- 🌱 Estudando Back End 
 
 <div align="center">
-  <a href="https://github.com/gutofar1as">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gutofar1as&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutofar1as&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Weslolo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Weslolo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslolo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,19 +20,13 @@
  ##
   
 <div>
-  <a href="https://www.linkedin.com/in/guto-undefined-b62822261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/wesley-hellstrom-93858a221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   </div>
   
-  <div align="center">
-  
-  ![Snake animation](https://github.com/GUTOFAR1AS/GUTOFAR1AS/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
-![snake gif](https://github.com/GUTOFAR1AS/GUTOFAR1AS/blob/output/github-contribution-grid-snake.svg)
