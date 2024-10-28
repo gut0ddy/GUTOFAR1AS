@@ -1,7 +1,7 @@
 ### <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> WELCOME TO MY PROFILE</h1>
 
-- 🌱 Estudando Back End 
-- 👨‍💻 Sou um desenvolvedor back-end apaixonado por aprender novas tecnologias e resolver problemas complexos.
+- 🌱 Estudando Back End.
+- 👨‍💻 Desenvolvedor Iniciante.
 
 <div align="center">
   <a href="https://github.com/GUTOFAR1AS">
