@@ -1,7 +1,8 @@
 ### <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> WELCOME TO MY PROFILE</h1>
 
-                                                    - 🌱 Estudando Back End.
-                                                  - 👨‍💻 Desenvolvedor Full-Stack.
+                                                  - 🌱 No Momento Estudando Flutter e Dart ![Dart logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png)
+                                                  - 👨‍💻 Desenvolvedor Full-Stack
+
 
 <div align="center">
   <a href="https://github.com/GUTOFAR1AS">
