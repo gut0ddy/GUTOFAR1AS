@@ -1,7 +1,7 @@
 ### <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> WELCOME TO MY PROFILE</h1>
 
-                                                  - 🌱 No Momento Estudando Flutter 🔹 e Dart 🔹
-                                                  - 👨‍💻 Desenvolvedor Full-Stack
+                                             - 🌱 No Momento Estudando Flutter 🔹 e Dart 🔹
+                                             - 👨‍💻 Desenvolvedor Full-Stack
 
 
 <div align="center">
