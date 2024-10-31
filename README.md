@@ -38,6 +38,5 @@
 </div>
 
 <div align="center">
-  <!-- Contribution Snake Animation -->
   ![Snake animation](https://github.com/GUTOFAR1AS/GUTOFAR1AS/blob/output/github-contribution-grid-snake.svg)
 </div>
