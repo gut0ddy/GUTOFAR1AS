@@ -44,7 +44,16 @@
   <!-- Animação de Terminal -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=500&center=true&vCenter=true&width=500&lines=Bem-vindo(a)!;Desenvolvedor+Full-Stack;Amante+de+Tecnologia;Explorador+do+Mundo+Open+Source" alt="Typing Animation">
 
-  <!-- Adiciona gráfico de commits com animação -->
+  <!-- Gráfico de Commits -->
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=GUTOFAR1AS&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D&border=DD2727" alt="GUTOFAR1AS streak stats"/></a>
 
+  <!-- Gráfico de Progresso Diários com SVG -->
+  <img src="https://github-readme-progress-bar.herokuapp.com/?username=GUTOFAR1AS&theme=dark&bg_color=000000&height=25&color=79ff97&title_color=fa8b00" alt="Progress Chart"/>
+
+  <!-- Piadas de Programação -->
+  <h3 align="center">Piada de Programação:</h3>
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card"/>
+
+  <!-- Animação com Ícones de Linguagens Favoritas -->
+  <img src="https://skillicons.dev/icons?i=js,ts,java,spring,flutter,dart,angular,python&theme=dark&perline=5" alt="Icons Animation"/>
 </div>
