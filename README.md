@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/GUTOFAR1AS">
     <!-- Gráfico de Commits -->
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=GUTOFAR1AS&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D&border=DD2727" alt="GUTOFAR1AS streak stats"/>
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=GUTOFAR1AS&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D&border=DD2727" alt="GUTOFAR1AS streak stats"/>
   </a>
   
   <a href="https://github.com/GUTOFAR1AS">
