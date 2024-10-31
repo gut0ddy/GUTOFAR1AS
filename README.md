@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,spring,flutter,angular,docker,maven,dart&theme=dark&perline=5" alt="Ícones de Linguagens"/>
 </div>
 
-## 🛠️ Ferramentas e Tecnologias
+                                        ## 🛠️ Ferramentas e Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031" />
@@ -37,6 +37,6 @@
 </div>
 
 <div align="center">
-  <!-- Animação de Contribuições -->
-  ![Snake animation](https://github.com/GUTOFAR1AS/GUTOFAR1AS/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 </div>
