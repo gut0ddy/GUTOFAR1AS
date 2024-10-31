@@ -1,10 +1,8 @@
-### <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> WELCOME TO MY PROFILE</h1>
-
 <div align="center">
   <a href="https://github.com/GUTOFAR1AS">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUTOFAR1AS&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 <!-- Animação de Terminal -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=500&center=true&vCenter=true&width=500&lines=Bem-vindo(a)!;Desenvolvedor+Full-Stack;Amante+de+Tecnologia;Explorador+do+Mundo+Open+Source" alt="Typing Animation">
     <!-- Gráfico de Commits -->
