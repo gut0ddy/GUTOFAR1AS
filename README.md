@@ -8,10 +8,11 @@
     <!-- Gráfico de Commits -->
     <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=GUTOFAR1AS&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D&border=DD2727" alt="GUTOFAR1AS streak stats"/>
   </a>
-  
+  <div align="center">
   <a href="https://github.com/GUTOFAR1AS">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUTOFAR1AS&layout=compact&langs_count=7&theme=dark"/>
   </a>
+  </div>
 </div>
 
 <div align="center"><br>
