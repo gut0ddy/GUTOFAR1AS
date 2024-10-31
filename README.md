@@ -21,8 +21,9 @@
   <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,spring,flutter,angular,docker,maven,dart&theme=dark&perline=5" alt="Ícones de Linguagens"/>
 </div>
 
-                                        ## 🛠️ Ferramentas e Tecnologias
-
+<div align ="center">
+## 🛠️ Ferramentas e Tecnologias
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031" />
   <img src="https://img.shields.io/badge/Backend-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=0074B1" />
