@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-🛠️ <strong><h1>Tools & Technologies</h1></strong>
+ <strong><h1>Tools & Technologies</h1></strong>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031" />
