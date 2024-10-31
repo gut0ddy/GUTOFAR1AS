@@ -31,10 +31,6 @@
   <img align="center" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
 </div>
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark" alt="Random Joke">
-</div>
-  
 ##
 
 <div align="center">
@@ -44,6 +40,11 @@
 <div align="center">
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212746384-bf660416-bf91-46e5-93b3-edce2c4ec51e.gif" width="200"/>
+
+  <!-- Animação de Terminal -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=500&center=true&vCenter=true&width=500&lines=Bem-vindo(a)!;Desenvolvedor+Full-Stack;Amante+de+Tecnologia;Explorador+do+Mundo+Open+Source" alt="Typing Animation">
+
+  <!-- Adiciona gráfico de commits com animação -->
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=GUTOFAR1AS&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D&border=DD2727" alt="GUTOFAR1AS streak stats"/></a>
+
 </div>
