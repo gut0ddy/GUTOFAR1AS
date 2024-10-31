@@ -16,7 +16,7 @@
 
 <div align="center"><br>
   <!-- Animação com Ícones de Linguagens Favoritas -->
-  <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,spring,flutter,angular,docker,maven&theme=dark&perline=5" alt="Icons Animation"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,spring,flutter,angular,docker,maven,dart&theme=dark&perline=5" alt="Icons Animation"/>
 </div>
 
 ##
