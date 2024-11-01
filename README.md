@@ -6,15 +6,8 @@
 <div align="center">
   <a href="https://github.com/GUTOFAR1AS">
     <!-- Commit Graph -->
-    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=GUTOFAR1AS&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D&border=DD2727" alt="GUTOFAR1AS streak stats"/>
+    <img height="180em" weight="180em" src="http://github-readme-streak-stats.herokuapp.com?user=GUTOFAR1AS&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D&border=DD2727" alt="GUTOFAR1AS streak stats"/>
   </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/GUTOFAR1AS">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GUTOFAR1AS&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  </a>
-</div>
 
 <div align="center"><br>
   <!-- Favorite Languages Icons Animation -->
