@@ -1,6 +1,6 @@
 <h1 align="center">
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=Welcome!;Full-Stack+Developer;Tech+Enthusiast;Open+Source+Explorer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=Welcome!;Full-Stack+Developer;Tech+Enthusiast;Open+Source+Explorer;Lifelong+Learner" alt="Typing Animation">
 </h1>
 
 <div align="center">
@@ -8,10 +8,11 @@
     <!-- Commit Graph -->
     <img height="180em" weight="180em" src="http://github-readme-streak-stats.herokuapp.com?user=GUTOFAR1AS&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D&border=DD2727" alt="GUTOFAR1AS streak stats"/>
   </a>
+</div>
 
 <div align="center"><br>
   <!-- Favorite Languages Icons Animation -->
-  <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,spring,flutter,angular,docker,maven,dart&theme=dark&perline=5" alt="Languages Icons"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,spring,flutter,angular,docker,maven,dart,html,css,git&theme=dark&perline=5" alt="Languages Icons"/>
 </div>
 
 <div align="center">
@@ -22,6 +23,8 @@
   <img src="https://img.shields.io/badge/Backend-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=0074B1" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1" />
   <img src="https://img.shields.io/badge/CI/CD-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED" />
+  <img src="https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900" />
 </div>
 
 <div align="center">
@@ -31,6 +34,11 @@
 </div>
 
 <div align="center">
-  
+  <!-- Animated GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GUTOFAR1AS&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <!-- Snake animation -->
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-</div>    
+</div>
