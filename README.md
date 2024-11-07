@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=Welcome!;Full-Stack+Developer;Tech+Enthusiast;Open+Source+Explorer" alt="Typing Animation">
 </h1>
 
-<div align="center">
+      <div>
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GUTOFAR1AS&layout=compact&theme=dark&langs_count=10)
-</div>
+      </div>
 
 <div align="center"><br>
   <!-- Favorite Languages Icons Animation -->
