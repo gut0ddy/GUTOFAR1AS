@@ -6,9 +6,8 @@
 <div align="center">
   <a href="https://github.com/GUTOFAR1AS">
     <!-- Commit Graph -->
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=GUTOFAR1AS&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D&border=DD2727" alt="GUTOFAR1AS streak stats"/>
+    <img height="180em" weight="180em" src="http://github-readme-streak-stats.herokuapp.com?user=GUTOFAR1AS&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D&border=DD2727" alt="GUTOFAR1AS streak stats"/>
   </a>
-</div>
 
 <div align="center"><br>
   <!-- Favorite Languages Icons Animation -->
@@ -32,5 +31,6 @@
 </div>
 
 <div align="center">
+  
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 </div>
