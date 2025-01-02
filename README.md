@@ -20,7 +20,7 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031" />
-  <img src="https://img.shields.io/badge/Backend-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=0074B1" />
+  <img src="https://img.shields.io/badge/Backend-Spring_Boot-green?style=flat&logo=spring&logoColor=white&color=6DB33F" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1" />
   <img src="https://img.shields.io/badge/CI/CD-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED" />
 </div>
