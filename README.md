@@ -3,12 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=Welcome!;Full-Stack+Developer;Tech+Enthusiast;Open+Source+Explorer" alt="Typing Animation">
 </h1>
 
-      
 <div align="center">
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUTOFAR1AS&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
 </div>
-      
 
 <div align="center"><br>
   <!-- Favorite Languages Icons Animation -->
@@ -32,6 +30,6 @@
 </div>
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  <!-- Snake Contribution Animation -->
+  <img src="https://github.com/GUTOFAR1AS/GUTOFAR1AS/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation"/>
 </div>
