@@ -1,8 +1,3 @@
-<h1 align="center">
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=Salve!;Eu+Amo+Fazer+Programa;Programador+Senior+Em+HTML+KKKKK" alt="Typing Animation">
-</h1>
-
       
 <div align="center">
   <!-- Most Used Languages -->
