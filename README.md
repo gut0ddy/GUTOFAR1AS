@@ -1,7 +1,7 @@
       
 <div align="center">
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUTOFAR1AS&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gut0ddy&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
 </div>
       
 
